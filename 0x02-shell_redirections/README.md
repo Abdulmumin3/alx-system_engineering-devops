@@ -1,1 +1,1 @@
-This README is mandatory
+0x02 shell Input Output redirections and directions
